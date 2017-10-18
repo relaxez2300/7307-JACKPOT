@@ -1,4 +1,3 @@
-# FRC-TEAM-2637
+# FRC
 
-Welcome to the GitHub for team 2637.
-I will be adding useful information to this site to help teams to run more effective seasons.
+Welcome to the FRC Github
